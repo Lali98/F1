@@ -53,3 +53,18 @@ nav li .kij{
     background-color: rgb(43, 43, 43);
     cursor: no-drop;
 }
+
+/*Tartalom rész*/
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    text-indent: 30px;
+    color: #fff;
+}
+
+h2{
+    font-family: 'Racing Sans One', cursive;
+    color: red;
+    font-size: 30px;
+}

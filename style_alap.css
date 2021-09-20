@@ -43,14 +43,15 @@ nav li a{
     padding: 14px 16px;
     text-decoration: none;
     cursor: default;
+    font-weight: bold;
 }
   
 nav li a:hover{
-    background-color: rgb(43, 43, 43);
+    background-color: rgba(43, 43, 43, 0.5);
 }
 
 nav li .kij{
-    background-color: rgb(43, 43, 43);
+    background-color: rgba(43, 43, 43, 0.5);
     cursor: no-drop;
 }
 

@@ -21,7 +21,7 @@ body{
 /*Navigation Bar*/
 
 .nav{
-    box-shadow: 1px 5px 5px 2px rgb(56, 56, 56);
+    box-shadow: 1px 8px 8px 2px rgb(37, 37, 37);
 }
 
 nav ul{
@@ -69,3 +69,8 @@ h2{
     color: red;
     font-size: 30px;
 }
+
+.clr{
+    clear: both;
+}
+

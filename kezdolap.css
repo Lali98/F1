@@ -1,10 +1,22 @@
-.tortenet{
-    padding-left: 10px;
-    padding-right: 10px;
+.tortenet, .vilag{
+    padding: 0 10px;
 }
 
-.tortenet #logo{
-    width: 200px;
+#logo_kep{
     float: right;
-    margin-left: 15px;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin: 0 0 0 10px;
 }
+
+.tortenet #logo_kep img{
+    width: 200px;
+}
+
+#kepallairas{
+    text-indent: 0px;
+    font-style: italic;
+    font-size: 10px;
+    text-align: center;
+}
+
